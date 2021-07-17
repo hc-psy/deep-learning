@@ -1,27 +1,22 @@
-# ML/DL Tasks
+# Machine Learning Projects
 
-This repo provides my implementations and reports of several DL-based solutions to various tasks, the assignments of NTUEE5184 lectured by Hung-yi Lee.
+This repo provides my implementations and reports of several DL-based solutions to various tasks, the assignments of NTUEE5184 lectured by Hung-yi Lee. **(This
+is a NTU course, score = A+)**
 
-## General Task
+## Project List
 
-* Covid-19 prediction
-
-
-## Computer Vision
-
-* Attack
-* Compression
-* Explanation
-* Anomaly Detection
-* GAN
-
-## Natural Language Processing
-
-* Translation
-* Question-answering
-
-## Speech Preprocessing
-
-* phonemen recognition
-
-## Reinforcement Learning
+* Regression Network: Covid-19 Prediction
+* Semi-supervised Learning (cv):
+* Network Adversarial Attack (cv):
+* Network Compression (cv): 
+* Explanatory AI (cv): 
+* Anomaly Detection (cv): 
+* Generative Adversarial Network (cv):
+* Domain Adaptation (cv):
+* Seq2Seq Model (nlp):
+* Transformer-based Model (nlp):
+* Self-attention Model (sp):
+* Multiclass Classification (sp):
+* Reinforcement learning:
+* Life-long Learning:
+* Meta Learning: 
