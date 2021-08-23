@@ -5,11 +5,11 @@ is a NTU course, score = A+)**
 
 ## Project List
 
-* Regression Network: Covid-19 Prediction
+* Network Regression: Covid-19 Prediction
 * Semi-supervised Learning (cv):
 * Network Adversarial Attack (cv):
 * Network Compression (cv): 
-* Explanatory AI (cv): 
+* Explanatory AI (cv/nlp): 
 * Anomaly Detection (cv): 
 * Generative Adversarial Network (cv):
 * Domain Adaptation (cv):
