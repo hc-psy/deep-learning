@@ -1,6 +1,6 @@
-# Machine Learning Projects
+# Deep Learning Projects
 
-This repo provides my implementations and reports of several DL-based solutions to various tasks, the assignments of NTUEE5184 lectured by Hung-yi Lee. **(This
+This repo provides my implementations and reports of several DL-based solutions to various tasks, the assignments of NTUEE5184 (Machine Learning) lectured by Hung-yi Lee. **(This
 is a NTU course, score = A+)**
 
 ## Project List
